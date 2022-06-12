@@ -40,7 +40,7 @@
 
 ## 2. Команды по ветвлению
 
-![git branch](branch.png)
+![git branch](branch.png) 
 
 *git branch* - **команда для вывовда списка веток**
 
