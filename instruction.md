@@ -57,6 +57,7 @@ ___
 Презентация на тему ["Введение в контроль версий" V 1.0](https://gbcdn.mrgcdn.ru/uploads/asset/3382251/attachment/b5c88675c477bd530bd5b532a181cf2f.pdf).
 
 [![Инструкция по установке Git](git.png)](https://yandex.ru/video/preview/?text=%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C%20git%20%D0%BD%D0%B0%20windows&path=yandex_search&parent-reqid=1654620229070070-15137040984187797485-vla1-4526-vla-l7-balancer-8080-BAL-9589&from_type=vast&filmId=11299384617156771124)
+
 ## Команды по ветвлению
 
 *git branch* - **команда для вывовда списка веток**
