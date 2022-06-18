@@ -69,6 +69,14 @@
   
 ## 6. Удаленный репозиторий
 
+1. Зарегистрироваться на сайте https://github.com/
+
+2. Добавить удаленный репозиторий
+
+![new repositiry](new repositiry.png)
+
+
+
 ## Материалы и инструкции:
 
 Презентация на тему ["Введение в контроль версий" V 1.0](https://gbcdn.mrgcdn.ru/uploads/asset/3382251/attachment/b5c88675c477bd530bd5b532a181cf2f.pdf).
