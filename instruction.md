@@ -79,6 +79,12 @@
 
 ![name_repository](name_repository.png)
 
+4. Связать с локальным репозиторием используя предложенные команды
+
+![for_local_repository](for_local_repository.png)
+
+5. 
+
 ## Материалы и инструкции:
 
 Презентация на тему ["Введение в контроль версий" V 1.0](https://gbcdn.mrgcdn.ru/uploads/asset/3382251/attachment/b5c88675c477bd530bd5b532a181cf2f.pdf).
