@@ -73,7 +73,7 @@
 
 2. Добавить удаленный репозиторий
 
-![new repositiry](new repositiry.png)
+![new_repositiry](new_repositiry.png)
 
 
 
