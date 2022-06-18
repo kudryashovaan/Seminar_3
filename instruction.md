@@ -75,7 +75,9 @@
 
 ![new_repositiry](new_repositiry.png)
 
+3. Добавить наименование репозитория
 
+![name_repository](name_repository.png)
 
 ## Материалы и инструкции:
 
